@@ -1,9 +1,19 @@
-🚀 Flutter To-Do List App
-A simple and intuitive Flutter-based To-Do List app that helps users organize their tasks efficiently. Built with Flutter’s UI capabilities, Hive for local storage, and logic-driven task management, this app allows users to add tasks, mark them as complete, delete tasks using slidable gestures, and much more! 📌
-Key Features
-- 📝 **Task Management** – Add, edit, and delete tasks easily
-- ✅ **Mark Tasks as Done** – Keep track of completed tasks
-- 🗄️ **Persistent Storage** – Uses **Hive** for saving tasks locally
-- 🎨 **Beautiful UI** – Utilizes Flutter widgets for a smooth experience
-- 🔥 **Slidable Package** – Swipe left/right to delete or complete tasks
+# TO DO app
 
+A new Flutter project created with FlutLab - https://flutlab.io
+
+## Getting Started
+
+A few resources to get you started if this is your first Flutter project:
+
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
+
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
